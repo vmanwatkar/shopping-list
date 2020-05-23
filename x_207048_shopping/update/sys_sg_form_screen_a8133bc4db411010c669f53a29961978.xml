@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Mobile shopping list</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Clipboard-exclamation">ac133bc4db411010c669f53a2996196f</icon>
+        <item_view display_value="Store Detail Screen Item View">28133bc4db411010c669f53a29961976</item_view>
+        <name>Store Form Screen</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>vmanwatkar</sys_created_by>
+        <sys_created_on>2020-05-23 17:54:23</sys_created_on>
+        <sys_id>a8133bc4db411010c669f53a29961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Form Screen</sys_name>
+        <sys_package display_value="Shopping List" source="x_207048_shopping">ac8ea300db411010c669f53a299619e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">ac8ea300db411010c669f53a299619e6</sys_scope>
+        <sys_update_name>sys_sg_form_screen_a8133bc4db411010c669f53a29961978</sys_update_name>
+        <sys_updated_by>vmanwatkar</sys_updated_by>
+        <sys_updated_on>2020-05-23 17:54:23</sys_updated_on>
+        <table>x_207048_shopping_store</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a8133bc4db411010c669f53a29961978"/>
+</record_update>
